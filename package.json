@@ -1,5 +1,5 @@
 {
   "name": "jwt-auth-vercel",
   "version": "1.0.0",
-  "description": "JWT Authentication System untuk Vercel Serverless"
+  "description": "JWT Authentication System"
 }
